@@ -1,0 +1,79 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Plaintiff",
+  "modified": "2025-01-08 16:53:12.323505",
+  "name": "Plaintiff"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Litigant",
+  "modified": "2025-01-08 16:53:12.373484",
+  "name": "Litigant"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Petitioner",
+  "modified": "2025-01-08 16:53:12.390769",
+  "name": "Petitioner"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Prosecution",
+  "modified": "2025-01-08 16:53:12.419952",
+  "name": "Prosecution"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Suspect",
+  "modified": "2025-01-08 16:53:12.434582",
+  "name": "Suspect"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Accused",
+  "modified": "2025-01-08 16:53:12.448800",
+  "name": "Accused"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Accuser",
+  "modified": "2025-01-08 16:53:12.463931",
+  "name": "Accuser"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Respondent",
+  "modified": "2025-01-08 16:53:12.478596",
+  "name": "Respondent"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "a",
+  "modified": "2025-01-08 16:58:24.726578",
+  "name": "a"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Defendant",
+  "modified": "2025-01-08 16:53:12.405119",
+  "name": "Defendant"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Meril Role Master",
+  "meril_role": "Complainant",
+  "modified": "2025-01-08 16:53:12.358949",
+  "name": "Complainant"
+ }
+]

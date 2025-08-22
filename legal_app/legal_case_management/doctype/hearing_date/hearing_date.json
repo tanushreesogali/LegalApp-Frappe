@@ -1,0 +1,68 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{hearing_details_link}-{##}",
+ "creation": "2025-01-02 12:31:03.111256",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "hearing_date_section",
+  "case_link",
+  "hearing_date",
+  "column_break_polf",
+  "hearing_details_link"
+ ],
+ "fields": [
+  {
+   "fieldname": "hearing_date_section",
+   "fieldtype": "Section Break",
+   "label": "Hearing Date"
+  },
+  {
+   "fieldname": "case_link",
+   "fieldtype": "Link",
+   "label": "Case Link",
+   "options": "Case Master"
+  },
+  {
+   "fieldname": "hearing_date",
+   "fieldtype": "Date",
+   "label": "Hearing Date"
+  },
+  {
+   "fieldname": "column_break_polf",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "hearing_details_link",
+   "fieldtype": "Link",
+   "label": "Hearing Details Link",
+   "options": "Hearing Details"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-01-09 15:29:12.714094",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Hearing Date",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

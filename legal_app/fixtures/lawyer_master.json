@@ -1,0 +1,30 @@
+[
+ {
+  "currency_type": null,
+  "docstatus": 0,
+  "doctype": "Lawyer Master",
+  "fees": 0.0,
+  "full_name": "Vipul Kapadia",
+  "lawyer_address": "Dharampur Rd, opposite Sailesh Petrol Pump, Valsad, Gujarat 396001",
+  "lawyer_email": "advocate.vsk@gmail.com",
+  "mobile": null,
+  "modified": "2025-01-09 13:59:21.665743",
+  "name": "Vipul Kapadia",
+  "payment_brief_arrangements": null,
+  "payment_details": []
+ },
+ {
+  "currency_type": null,
+  "docstatus": 0,
+  "doctype": "Lawyer Master",
+  "fees": 10000.0,
+  "full_name": "Vishal Desai",
+  "lawyer_address": "werdgtfh7u5643ertyjuuhgfdsadfgbnvfdcfvbnbvcdfgh",
+  "lawyer_email": "vishal1509desai@gmail.com",
+  "mobile": "+91-8765434566",
+  "modified": "2025-01-08 17:12:43.054688",
+  "name": "Vishal Desai",
+  "payment_brief_arrangements": "After Hearing",
+  "payment_details": []
+ }
+]

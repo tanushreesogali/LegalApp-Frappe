@@ -1,0 +1,130 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:notice_no",
+ "creation": "2024-12-25 09:50:21.705263",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "notice_details_section",
+  "legal_team",
+  "notice_no",
+  "meril_entity",
+  "opposite_party",
+  "meril_role",
+  "notice_type",
+  "lawyer",
+  "column_break_mbvx",
+  "date_of_notice",
+  "notice_received_date",
+  "reply_date",
+  "documents",
+  "notice_description"
+ ],
+ "fields": [
+  {
+   "fieldname": "notice_details_section",
+   "fieldtype": "Section Break",
+   "label": "Notice Details"
+  },
+  {
+   "fieldname": "legal_team",
+   "fieldtype": "Select",
+   "label": "Legal Team",
+   "options": "-Select-\nIP\nDistribution\nLegal"
+  },
+  {
+   "fieldname": "meril_entity",
+   "fieldtype": "Select",
+   "label": "Meril Entity",
+   "options": "- Select -\nMicro Life Sciences Private Limited\nMeril Life Sciences Private Limited\nMeril Life Sciences India Private Limited\nMeril Diagnostics Private Limited\nMeril Endo Surgery Private Limited\nMeril Healthcare Private Limited\nMeril Medical Innovations Private Limited\nNone"
+  },
+  {
+   "fieldname": "opposite_party",
+   "fieldtype": "Data",
+   "label": "Opposite Party"
+  },
+  {
+   "fieldname": "meril_role",
+   "fieldtype": "Link",
+   "label": "Meril Role",
+   "options": "Meril Role Master"
+  },
+  {
+   "fieldname": "notice_type",
+   "fieldtype": "Data",
+   "label": "Notice Type"
+  },
+  {
+   "fieldname": "lawyer",
+   "fieldtype": "Link",
+   "label": "Lawyer",
+   "options": "Lawyer Master"
+  },
+  {
+   "fieldname": "column_break_mbvx",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "date_of_notice",
+   "fieldtype": "Date",
+   "label": "Date of Notice"
+  },
+  {
+   "fieldname": "notice_received_date",
+   "fieldtype": "Date",
+   "label": "Notice Received Date"
+  },
+  {
+   "fieldname": "reply_date",
+   "fieldtype": "Date",
+   "label": "Reply Date"
+  },
+  {
+   "fieldname": "documents",
+   "fieldtype": "Attach",
+   "label": "Documents"
+  },
+  {
+   "fieldname": "notice_description",
+   "fieldtype": "Small Text",
+   "label": "Notice Description"
+  },
+  {
+   "fieldname": "notice_no",
+   "fieldtype": "Data",
+   "label": "Notice Number",
+   "unique": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [
+  {
+   "link_doctype": "Case Master",
+   "link_fieldname": "notice_number"
+  }
+ ],
+ "modified": "2025-01-08 17:55:44.744015",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Notice Master",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

@@ -1,0 +1,66 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-10-21 11:15:06.136074",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "payment_details_section",
+  "case",
+  "invoice_date",
+  "amount",
+  "currency_type",
+  "description"
+ ],
+ "fields": [
+  {
+   "fieldname": "payment_details_section",
+   "fieldtype": "Section Break",
+   "label": "Payment Details"
+  },
+  {
+   "fieldname": "case",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Case",
+   "options": "Case Master"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Description"
+  },
+  {
+   "fieldname": "invoice_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Invoice Date"
+  },
+  {
+   "fieldname": "amount",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "label": "Amount"
+  },
+  {
+   "fieldname": "currency_type",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Currency Type",
+   "options": "Currency Master"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-12-23 12:43:44.715362",
+ "modified_by": "Administrator",
+ "module": "Masters",
+ "name": "Payment Master",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

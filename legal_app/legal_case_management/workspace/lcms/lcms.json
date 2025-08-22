@@ -1,0 +1,120 @@
+{
+ "charts": [
+  {
+   "chart_name": "No. of Closed Cases",
+   "label": "No. of Closed Cases"
+  },
+  {
+   "chart_name": "Case Stages",
+   "label": "Case Stages"
+  },
+  {
+   "chart_name": "Meril Roles",
+   "label": "Meril Entity"
+  },
+  {
+   "chart_name": "Case Type Distribution",
+   "label": "Case Type Distribution"
+  },
+  {
+   "chart_name": "No. of Open Cases",
+   "label": "No. of Open Cases"
+  },
+  {
+   "chart_name": "Total No. of Cases",
+   "label": "Total No. of Cases"
+  }
+ ],
+ "content": "[{\"id\":\"ISTQdpjpZ9\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Dashboard</span>\",\"col\":12}},{\"id\":\"CGKSiWJeW9\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total No. of Cases\",\"col\":3}},{\"id\":\"DcnIk9Oe90\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"No. of Notices\",\"col\":3}},{\"id\":\"N2QiNTUoco\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"No. of Open Cases\",\"col\":3}},{\"id\":\"1qzSxcs8PB\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"No. of Closed Case\",\"col\":3}},{\"id\":\"4HWd6iDse5\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Complete Case Report\",\"col\":4}},{\"id\":\"Ck52MFwPiP\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Case Master Report\",\"col\":4}},{\"id\":\"OHle2kVom_\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Case Hearing Report\",\"col\":4}},{\"id\":\"jV3fIZUqvr\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Total No. of Cases\",\"col\":12}},{\"id\":\"QgfbGS-SEf\",\"type\":\"chart\",\"data\":{\"chart_name\":\"No. of Open Cases\",\"col\":6}},{\"id\":\"HT89g7IDCV\",\"type\":\"chart\",\"data\":{\"chart_name\":\"No. of Closed Cases\",\"col\":6}},{\"id\":\"a9-ictQJXU\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Case Type Distribution\",\"col\":6}},{\"id\":\"auVPMyUxL7\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Case Stages\",\"col\":6}},{\"id\":\"aypwJ2EDvF\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Meril Entity\",\"col\":12}},{\"id\":\"6bgUplk8TW\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Meril Entity Wise Distribution\",\"col\":12}},{\"id\":\"i2Ti_kvWZV\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Case Type vs Case Stage\",\"col\":12}},{\"id\":\"j0NtNgiZcJ\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Entity Wise Case Type\",\"col\":12}},{\"id\":\"oIek5IU8z7\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Entity with Type and Status\",\"col\":12}}]",
+ "creation": "2024-10-28 09:48:20.484120",
+ "custom_blocks": [
+  {
+   "custom_block_name": "Meril Entity Wise Distribution",
+   "label": "Meril Entity Wise Distribution"
+  },
+  {
+   "custom_block_name": "Entity Wise Case Type",
+   "label": "Entity Wise Case Type"
+  },
+  {
+   "custom_block_name": "Entity with Type and Status",
+   "label": "Entity with Type and Status"
+  },
+  {
+   "custom_block_name": "Case Type vs Case Stage",
+   "label": "Case Type vs Case Stage"
+  }
+ ],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "color-review-points",
+ "idx": 4,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "LCMS",
+ "links": [],
+ "modified": "2025-05-29 17:08:15.405771",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "LCMS",
+ "number_cards": [
+  {
+   "label": "No. of Notices",
+   "number_card_name": "No. of Notices"
+  },
+  {
+   "label": "Total No. of Cases",
+   "number_card_name": "Total No. of Cases"
+  },
+  {
+   "label": "No. of Open Cases",
+   "number_card_name": "No. of Open Cases"
+  },
+  {
+   "label": "No. of Closed Case",
+   "number_card_name": "No. of Closed Case"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Administrator"
+  },
+  {
+   "role": "Admin"
+  }
+ ],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Complete Case Report",
+   "link_to": "Legal Report",
+   "report_ref_doctype": "Case Master",
+   "type": "Report",
+   "url": "http://localhost:8002/app/hearing-details/view/calendar/Upcoming%20Hearing%20Date"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Case Master Report",
+   "type": "URL",
+   "url": "/app/query-report/Case%20Detail%20Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Case Hearing Report",
+   "link_to": "Hearing Details Report",
+   "report_ref_doctype": "Hearing Details",
+   "type": "Report"
+  }
+ ],
+ "title": "LCMS"
+}

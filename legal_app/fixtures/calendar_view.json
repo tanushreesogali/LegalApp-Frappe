@@ -1,0 +1,13 @@
+[
+ {
+  "all_day": 0,
+  "docstatus": 0,
+  "doctype": "Calendar View",
+  "end_date_field": "hearing_date",
+  "modified": "2025-01-08 16:25:40.703225",
+  "name": "Hearing Date",
+  "reference_doctype": "Hearing Date",
+  "start_date_field": "hearing_date",
+  "subject_field": "hearing_date"
+ }
+]

@@ -1,0 +1,211 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "field:case_name",
+ "creation": "2025-01-11 12:59:20.220481",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "case_type_section",
+  "case_type",
+  "column_break_xuhx",
+  "case_name",
+  "section_break_qatl",
+  "patent_number",
+  "divisional_of",
+  "date_of_grant",
+  "anticipated_expiration",
+  "date_of_litigation",
+  "applicant",
+  "defendant",
+  "column_break_pjtj",
+  "country",
+  "has_meril_filed_an_opposition_previously",
+  "case_on_merit_pi",
+  "court",
+  "statement_of_defense",
+  "filed_by_opponent",
+  "second_response_by_meril",
+  "second_response_filed_by_opponent",
+  "judgment",
+  "due_date_for_filing_appeal",
+  "remarks",
+  "status",
+  "epoupc_hearing_details_section",
+  "patent_hearing_details"
+ ],
+ "fields": [
+  {
+   "fieldname": "case_type_section",
+   "fieldtype": "Section Break",
+   "label": "Case Type"
+  },
+  {
+   "default": "-Select-",
+   "fieldname": "case_type",
+   "fieldtype": "Select",
+   "label": "Case Type",
+   "options": "-Select-\nNational Court\nUPC"
+  },
+  {
+   "fieldname": "section_break_qatl",
+   "fieldtype": "Section Break",
+   "label": "Details"
+  },
+  {
+   "fieldname": "epoupc_hearing_details_section",
+   "fieldtype": "Section Break",
+   "label": "EPO/UPC Hearing Details"
+  },
+  {
+   "fieldname": "patent_hearing_details",
+   "fieldtype": "Table",
+   "label": "Patent Hearing Details",
+   "options": "Date Of Hearing"
+  },
+  {
+   "fieldname": "column_break_pjtj",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "patent_number",
+   "fieldtype": "Small Text",
+   "label": "Patent Number"
+  },
+  {
+   "fieldname": "divisional_of",
+   "fieldtype": "Data",
+   "label": "Divisional of"
+  },
+  {
+   "fieldname": "date_of_grant",
+   "fieldtype": "Small Text",
+   "label": "Date of Grant"
+  },
+  {
+   "fieldname": "anticipated_expiration",
+   "fieldtype": "Small Text",
+   "label": "Anticipated expiration"
+  },
+  {
+   "fieldname": "date_of_litigation",
+   "fieldtype": "Text",
+   "label": "Date of Litigation"
+  },
+  {
+   "fieldname": "country",
+   "fieldtype": "Data",
+   "label": "Country"
+  },
+  {
+   "fieldname": "applicant",
+   "fieldtype": "Table MultiSelect",
+   "label": "Applicant",
+   "options": "Defendant and Applicant"
+  },
+  {
+   "fieldname": "defendant",
+   "fieldtype": "Table MultiSelect",
+   "label": "Defendant",
+   "options": "Defendant and Applicant"
+  },
+  {
+   "default": "-Select-",
+   "fieldname": "has_meril_filed_an_opposition_previously",
+   "fieldtype": "Select",
+   "label": "Has Meril filed an opposition previously?",
+   "options": "-Select-\nYes\nNo"
+  },
+  {
+   "fieldname": "court",
+   "fieldtype": "Data",
+   "label": "Court"
+  },
+  {
+   "fieldname": "statement_of_defense",
+   "fieldtype": "Date",
+   "label": "Due Date for Statement of Defense"
+  },
+  {
+   "fieldname": "filed_by_opponent",
+   "fieldtype": "Date",
+   "label": "Date of response Filed by Opponent"
+  },
+  {
+   "fieldname": "second_response_by_meril",
+   "fieldtype": "Date",
+   "label": "Due Date for Submission of Second Response by Meril"
+  },
+  {
+   "fieldname": "second_response_filed_by_opponent",
+   "fieldtype": "Date",
+   "label": "Date of Second Response Filed by Opponent"
+  },
+  {
+   "fieldname": "judgment",
+   "fieldtype": "Small Text",
+   "label": "Judgment"
+  },
+  {
+   "fieldname": "due_date_for_filing_appeal",
+   "fieldtype": "Date",
+   "label": "Due Date for Filing Appeal"
+  },
+  {
+   "fieldname": "remarks",
+   "fieldtype": "Small Text",
+   "label": "Remarks"
+  },
+  {
+   "fieldname": "case_name",
+   "fieldtype": "Data",
+   "label": "Case Name",
+   "unique": 1
+  },
+  {
+   "fieldname": "column_break_xuhx",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "-Select-",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "-Select-\nWin\nLose\nOngoing\nSettled\nClosed"
+  },
+  {
+   "default": "-Select-",
+   "fieldname": "case_on_merit_pi",
+   "fieldtype": "Select",
+   "label": "Case on Merit/PI",
+   "options": "-Select-\nMerit\nPI"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-05-21 11:33:40.896251",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Patent Master",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

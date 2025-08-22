@@ -1,0 +1,175 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:case_name",
+ "creation": "2025-01-24 12:38:59.543551",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "case_detail_section",
+  "case_name",
+  "opposition_details_section",
+  "patent_no",
+  "divisional_of",
+  "date_of_grant",
+  "anticipated_expiration",
+  "applicant",
+  "defendant",
+  "filing_date_of_opposition",
+  "other_companies_involve_in_litigationopposition",
+  "column_break_nwvu",
+  "court",
+  "date_of_receiving_response_from_opponent",
+  "due_date_for_submission_of_response",
+  "date_of_response_filed_by_opponent",
+  "judgment",
+  "due_date_for_filing_appeal",
+  "remarks",
+  "status",
+  "hearing_details_section",
+  "opposition_hearing"
+ ],
+ "fields": [
+  {
+   "fieldname": "opposition_details_section",
+   "fieldtype": "Section Break",
+   "label": "Opposition Details"
+  },
+  {
+   "fieldname": "patent_no",
+   "fieldtype": "Data",
+   "label": "Patent No.",
+   "unique": 1
+  },
+  {
+   "fieldname": "divisional_of",
+   "fieldtype": "Data",
+   "label": "Divisional of"
+  },
+  {
+   "fieldname": "date_of_grant",
+   "fieldtype": "Date",
+   "label": "Date of Grant"
+  },
+  {
+   "fieldname": "anticipated_expiration",
+   "fieldtype": "Date",
+   "label": "Anticipated expiration"
+  },
+  {
+   "fieldname": "filing_date_of_opposition",
+   "fieldtype": "Date",
+   "label": "Filing Date of Opposition"
+  },
+  {
+   "fieldname": "other_companies_involve_in_litigationopposition",
+   "fieldtype": "Small Text",
+   "label": "Other Companies Involve in Litigation/Opposition"
+  },
+  {
+   "fieldname": "date_of_receiving_response_from_opponent",
+   "fieldtype": "Date",
+   "label": "Date of receiving Response from Opponent"
+  },
+  {
+   "fieldname": "due_date_for_submission_of_response",
+   "fieldtype": "Date",
+   "label": "Due Date for submission of Response"
+  },
+  {
+   "fieldname": "date_of_response_filed_by_opponent",
+   "fieldtype": "Date",
+   "label": "Date of response filed by Opponent"
+  },
+  {
+   "fieldname": "judgment",
+   "fieldtype": "Small Text",
+   "label": "Judgment"
+  },
+  {
+   "fieldname": "due_date_for_filing_appeal",
+   "fieldtype": "Date",
+   "label": "Due Date for Filing Appeal"
+  },
+  {
+   "fieldname": "remarks",
+   "fieldtype": "Small Text",
+   "label": "Remarks"
+  },
+  {
+   "fieldname": "column_break_nwvu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "hearing_details_section",
+   "fieldtype": "Section Break",
+   "label": "Hearing Details"
+  },
+  {
+   "fieldname": "court",
+   "fieldtype": "Data",
+   "label": "Court"
+  },
+  {
+   "fieldname": "applicant",
+   "fieldtype": "Table MultiSelect",
+   "label": "Applicant",
+   "options": "Defendant and Applicant"
+  },
+  {
+   "fieldname": "defendant",
+   "fieldtype": "Table MultiSelect",
+   "label": "Defendant",
+   "options": "Defendant and Applicant"
+  },
+  {
+   "fieldname": "case_detail_section",
+   "fieldtype": "Section Break",
+   "label": "Case Detail"
+  },
+  {
+   "fieldname": "case_name",
+   "fieldtype": "Data",
+   "label": "Case Name",
+   "unique": 1
+  },
+  {
+   "default": "-Select-",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "-Select-\nWin\nLose\nOngoing\nSettled\nClosed"
+  },
+  {
+   "fieldname": "opposition_hearing",
+   "fieldtype": "Table",
+   "label": "Opposition Hearing",
+   "options": "Date Of Hearing"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-02-05 16:21:24.678544",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "EPO Opposition Master",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

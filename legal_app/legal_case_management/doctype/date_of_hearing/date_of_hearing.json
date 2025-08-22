@@ -1,0 +1,48 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-01-24 12:36:22.614172",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "details_section",
+  "date_of_hearing",
+  "column_break_ytpk",
+  "comment"
+ ],
+ "fields": [
+  {
+   "fieldname": "date_of_hearing",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Date of Hearing/ Oral Proceedings"
+  },
+  {
+   "fieldname": "comment",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Comment"
+  },
+  {
+   "fieldname": "details_section",
+   "fieldtype": "Section Break",
+   "label": "Details"
+  },
+  {
+   "fieldname": "column_break_ytpk",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-02-05 16:21:40.956018",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Date Of Hearing",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

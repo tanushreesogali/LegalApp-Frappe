@@ -1,0 +1,13 @@
+{
+ "creation": "2024-10-28 11:49:22.670031",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart Source",
+ "idx": 0,
+ "modified": "2024-10-28 11:49:22.670031",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Type of Cases",
+ "owner": "Administrator",
+ "source_name": "Type of Cases",
+ "timeseries": 1
+}

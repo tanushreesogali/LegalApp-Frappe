@@ -1,0 +1,31 @@
+{
+ "attach_print": 0,
+ "channel": "Email",
+ "creation": "2024-11-07 17:04:51.763468",
+ "date_changed": "hearing_date",
+ "days_in_advance": 7,
+ "docstatus": 0,
+ "doctype": "Notification",
+ "document_type": "Hearing Details",
+ "enabled": 1,
+ "event": "Days Before",
+ "idx": 0,
+ "is_standard": 1,
+ "message": "Dear Team,\n\nThis is an automated reminder regarding the upcoming hearing for your case {{doc.case_number}}. Please take note of the following details:\n\nHearing Date: {{doc.hearing_date}}\nLocation: {{doc.court_name}} - {{doc.city_name}}\nOpposing Party: {{doc.opposing_party}}\nCase Reference: {{doc.case_number}}\n\nThank you for your attention to this matter.",
+ "message_type": "Plain Text",
+ "modified": "2024-11-07 17:04:51.763468",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Hearing Date Reminder",
+ "owner": "Administrator",
+ "recipients": [
+  {
+   "condition": "doc.legal_team == \"Legal\"",
+   "receiver_by_document_field": "custom_user",
+   "receiver_by_role": "Litigation"
+  }
+ ],
+ "send_system_notification": 1,
+ "send_to_all_assignees": 0,
+ "subject": "Reminder: Upcoming Hearing Date for Case {{doc.name}}"
+}

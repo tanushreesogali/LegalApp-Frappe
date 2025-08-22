@@ -1,0 +1,33 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2025-01-02 04:57:38.491982",
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 15,
+ "is_standard": "Yes",
+ "letterhead": null,
+ "modified": "2025-02-18 11:47:19.595519",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Legal Report",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Case Master",
+ "report_name": "Legal Report",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "Administrator"
+  },
+  {
+   "role": "Litigation"
+  },
+  {
+   "role": "Admin"
+  }
+ ],
+ "timeout": 0
+}

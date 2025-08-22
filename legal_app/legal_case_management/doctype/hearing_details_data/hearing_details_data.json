@@ -1,0 +1,58 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-11-05 17:19:55.100722",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "hearing_details_section",
+  "hearing_date",
+  "hearing_documents",
+  "evidence_documents",
+  "details_of_hearing"
+ ],
+ "fields": [
+  {
+   "fieldname": "hearing_details_section",
+   "fieldtype": "Section Break",
+   "label": "Hearing Details"
+  },
+  {
+   "fieldname": "hearing_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Hearing Date"
+  },
+  {
+   "fieldname": "hearing_documents",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "Hearing Documents"
+  },
+  {
+   "fieldname": "evidence_documents",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "Evidence Documents"
+  },
+  {
+   "fieldname": "details_of_hearing",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Details of Hearing"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-12-23 10:44:45.916327",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Hearing Details Data",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

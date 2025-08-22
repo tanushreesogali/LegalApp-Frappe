@@ -1,0 +1,283 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "format:{case_number}",
+ "creation": "2024-10-28 10:14:58.378889",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "details_section",
+  "legal_team",
+  "notice_number",
+  "email_address",
+  "case_number",
+  "meril_entity",
+  "meril_role",
+  "case_type",
+  "case_description",
+  "column_break_pfyn",
+  "lawyer_name",
+  "opposite_party",
+  "opposite_party_lawyer",
+  "filing_date",
+  "amount",
+  "currency_type",
+  "case_stage",
+  "status",
+  "case_documents",
+  "location_section",
+  "city_name",
+  "state_name",
+  "column_break_ivla",
+  "country_name",
+  "court_location_details_section",
+  "court_type",
+  "court_name",
+  "court_city_name",
+  "column_break_xynx",
+  "court_state_name",
+  "court_country_name",
+  "opposing_clients_section",
+  "opposing_clients",
+  "case_witness_section",
+  "case_witness"
+ ],
+ "fields": [
+  {
+   "fieldname": "details_section",
+   "fieldtype": "Section Break",
+   "label": "Details"
+  },
+  {
+   "fieldname": "legal_team",
+   "fieldtype": "Select",
+   "label": "Legal Team",
+   "options": "-Select-\nDistributor\nIP\nLegal"
+  },
+  {
+   "fieldname": "case_number",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Case Number",
+   "unique": 1
+  },
+  {
+   "fieldname": "meril_entity",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Meril Entity",
+   "options": "-Select-\nMicro Life Sciences Private Limited\nMeril Diagnostics Private Limited\nMeril Life Sciences Private Limited\nMeril Life Sciences India Private Limited\nMeril Endo Surgery Private Limited\nMeril Healthcare Private Limited\nMeril Medical Innovations Private Limited\nMeril Corporation (I) Private Limited"
+  },
+  {
+   "fieldname": "opposite_party",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Opposite Party"
+  },
+  {
+   "fieldname": "case_type",
+   "fieldtype": "Link",
+   "label": "Case Type",
+   "options": "Case Types Master"
+  },
+  {
+   "fieldname": "case_description",
+   "fieldtype": "Small Text",
+   "label": "Case Description"
+  },
+  {
+   "fieldname": "case_documents",
+   "fieldtype": "Attach",
+   "label": "Case Documents"
+  },
+  {
+   "fieldname": "column_break_pfyn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "notice_number",
+   "fieldtype": "Link",
+   "label": "Notice Number (If any)",
+   "options": "Notice Master"
+  },
+  {
+   "fieldname": "lawyer_name",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Meril Lawyer",
+   "options": "Lawyer Master"
+  },
+  {
+   "fieldname": "filing_date",
+   "fieldtype": "Date",
+   "label": "Filing Date"
+  },
+  {
+   "fieldname": "amount",
+   "fieldtype": "Currency",
+   "label": "Amount"
+  },
+  {
+   "fieldname": "currency_type",
+   "fieldtype": "Link",
+   "label": "Currency Type",
+   "options": "Currency Master"
+  },
+  {
+   "fieldname": "meril_role",
+   "fieldtype": "Link",
+   "label": "Meril Role",
+   "options": "Meril Role Master"
+  },
+  {
+   "fieldname": "case_stage",
+   "fieldtype": "Link",
+   "label": "Case Stage",
+   "options": "Case Stages Master"
+  },
+  {
+   "fieldname": "location_section",
+   "fieldtype": "Section Break",
+   "label": "Case Location"
+  },
+  {
+   "fieldname": "state_name",
+   "fieldtype": "Data",
+   "label": "State Name"
+  },
+  {
+   "fieldname": "column_break_ivla",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "city_name",
+   "fieldtype": "Data",
+   "label": "City Name"
+  },
+  {
+   "fieldname": "country_name",
+   "fieldtype": "Data",
+   "label": "Country Name"
+  },
+  {
+   "fieldname": "opposing_clients_section",
+   "fieldtype": "Section Break",
+   "label": "Opposing Clients"
+  },
+  {
+   "fieldname": "opposing_clients",
+   "fieldtype": "Table",
+   "label": "Opposing Clients",
+   "options": "Opposing Clients"
+  },
+  {
+   "fieldname": "case_witness_section",
+   "fieldtype": "Section Break",
+   "label": "Case Witness"
+  },
+  {
+   "fieldname": "case_witness",
+   "fieldtype": "Table",
+   "label": "Case Witness",
+   "options": "Case Witness"
+  },
+  {
+   "fieldname": "court_location_details_section",
+   "fieldtype": "Section Break",
+   "label": "Court Location Details"
+  },
+  {
+   "fieldname": "court_name",
+   "fieldtype": "Data",
+   "label": "Court Name"
+  },
+  {
+   "fieldname": "court_city_name",
+   "fieldtype": "Data",
+   "label": "Court City Name"
+  },
+  {
+   "fieldname": "column_break_xynx",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "court_state_name",
+   "fieldtype": "Data",
+   "label": "Court State Name"
+  },
+  {
+   "fieldname": "court_country_name",
+   "fieldtype": "Data",
+   "label": "Court Country Name"
+  },
+  {
+   "fieldname": "email_address",
+   "fieldtype": "Data",
+   "label": "Email Address"
+  },
+  {
+   "fieldname": "opposite_party_lawyer",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Opposite Party Lawyer",
+   "options": "Lawyer Master"
+  },
+  {
+   "fieldname": "court_type",
+   "fieldtype": "Link",
+   "label": "Court Type",
+   "options": "Court Types Master"
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Case Status",
+   "options": "Open\nClosed\nRe-Open"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [
+  {
+   "link_doctype": "Hearing Details",
+   "link_fieldname": "case"
+  }
+ ],
+ "modified": "2025-02-18 09:45:55.573329",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Case Master",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [
+  {
+   "color": "Green",
+   "title": "Open"
+  },
+  {
+   "color": "Red",
+   "title": "Closed"
+  },
+  {
+   "color": "Light Blue",
+   "title": "Re-Open"
+  }
+ ],
+ "track_changes": 1
+}

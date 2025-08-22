@@ -1,0 +1,80 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:name2",
+ "creation": "2024-09-30 11:30:15.409985",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "opposing_clients_section",
+  "name2",
+  "mobile_number",
+  "address",
+  "column_break_xkag",
+  "email",
+  "location",
+  "department"
+ ],
+ "fields": [
+  {
+   "fieldname": "opposing_clients_section",
+   "fieldtype": "Section Break",
+   "label": "Opposing Clients"
+  },
+  {
+   "fieldname": "mobile_number",
+   "fieldtype": "Phone",
+   "in_list_view": 1,
+   "label": "Mobile Number"
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Email"
+  },
+  {
+   "fieldname": "address",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Address"
+  },
+  {
+   "fieldname": "location",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Location"
+  },
+  {
+   "fieldname": "department",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Department"
+  },
+  {
+   "fieldname": "name2",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Name",
+   "unique": 1
+  },
+  {
+   "fieldname": "column_break_xkag",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-01-02 00:21:55.541002",
+ "modified_by": "Administrator",
+ "module": "Masters",
+ "name": "Case Witness",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

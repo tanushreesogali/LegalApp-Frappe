@@ -1,0 +1,107 @@
+[
+ {
+  "case_stages": "Filing the Case",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.648637",
+  "name": "Filing the Case"
+ },
+ {
+  "case_stages": "Summons/Notice",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.681345",
+  "name": "Summons/Notice"
+ },
+ {
+  "case_stages": "Appearance and Pleadings",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.732867",
+  "name": "Appearance and Pleadings"
+ },
+ {
+  "case_stages": "Framing of Issues",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.780868",
+  "name": "Framing of Issues"
+ },
+ {
+  "case_stages": "Cross-Examination",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.839314",
+  "name": "Cross-Examination"
+ },
+ {
+  "case_stages": "Arguments",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.852775",
+  "name": "Arguments"
+ },
+ {
+  "case_stages": "Judgment",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.866932",
+  "name": "Judgment"
+ },
+ {
+  "case_stages": "Execution of Judgment",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.881278",
+  "name": "Execution of Judgment"
+ },
+ {
+  "case_stages": "Review and Revision",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.901534",
+  "name": "Review and Revision"
+ },
+ {
+  "case_stages": "Settlement or Mediation",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.915257",
+  "name": "Settlement or Mediation"
+ },
+ {
+  "case_stages": "Preliminary Hearing",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.928907",
+  "name": "Preliminary Hearing"
+ },
+ {
+  "case_stages": "Appeal",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.942702",
+  "name": "Appeal"
+ },
+ {
+  "case_stages": "Rejoinder",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.958382",
+  "name": "Rejoinder"
+ },
+ {
+  "case_stages": "Order on Injuction Application",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-09 14:08:41.696810",
+  "name": "Order on Injuction Application"
+ },
+ {
+  "case_stages": "Evidence",
+  "docstatus": 0,
+  "doctype": "Case Stages Master",
+  "modified": "2025-01-08 16:53:47.825285",
+  "name": "Evidence"
+ }
+]

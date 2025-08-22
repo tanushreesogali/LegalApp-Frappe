@@ -1,0 +1,92 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{case_no}-hearing",
+ "creation": "2024-09-30 12:28:22.069577",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "case_no",
+  "legal_teams",
+  "email_address",
+  "column_break_bovn",
+  "case_lawyer",
+  "case_stages",
+  "section_break_xyaw",
+  "hearing_date_table"
+ ],
+ "fields": [
+  {
+   "fetch_from": "case_no.lawyer_name",
+   "fieldname": "case_lawyer",
+   "fieldtype": "Data",
+   "label": "Case Lawyer"
+  },
+  {
+   "fieldname": "email_address",
+   "fieldtype": "Data",
+   "label": "Email Address"
+  },
+  {
+   "fieldname": "column_break_bovn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fetch_from": "case_no.case_stage",
+   "fetch_if_empty": 1,
+   "fieldname": "case_stages",
+   "fieldtype": "Data",
+   "label": "Case Stages"
+  },
+  {
+   "fetch_from": "case_no.legal_team",
+   "fieldname": "legal_teams",
+   "fieldtype": "Data",
+   "label": "Legal Teams",
+   "show_on_timeline": 1
+  },
+  {
+   "fieldname": "section_break_xyaw",
+   "fieldtype": "Section Break",
+   "label": "Hearing Date Details"
+  },
+  {
+   "fieldname": "hearing_date_table",
+   "fieldtype": "Table",
+   "label": "Hearing Date Table",
+   "options": "Hearing Details Data"
+  },
+  {
+   "fieldname": "case_no",
+   "fieldtype": "Link",
+   "label": "Case",
+   "options": "Case Master"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-01-09 12:32:33.623475",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Hearing Details",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}

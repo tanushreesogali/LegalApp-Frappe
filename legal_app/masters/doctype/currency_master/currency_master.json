@@ -1,0 +1,63 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "field:currency",
+ "creation": "2024-10-26 12:42:25.688953",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "currency_details_section",
+  "currency",
+  "column_break_oefb",
+  "currency_name"
+ ],
+ "fields": [
+  {
+   "fieldname": "currency_details_section",
+   "fieldtype": "Section Break",
+   "label": "Currency Details"
+  },
+  {
+   "fieldname": "currency",
+   "fieldtype": "Data",
+   "label": "Currency",
+   "unique": 1
+  },
+  {
+   "fieldname": "column_break_oefb",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "currency_name",
+   "fieldtype": "Data",
+   "label": "Currency Name"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-01-09 10:15:28.963677",
+ "modified_by": "Administrator",
+ "module": "Masters",
+ "name": "Currency Master",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}

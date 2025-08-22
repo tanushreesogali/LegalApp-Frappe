@@ -1,0 +1,80 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:name1",
+ "creation": "2024-09-30 11:18:55.716460",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "opposing_clients_section",
+  "name1",
+  "mobile_number",
+  "address",
+  "column_break_bfcr",
+  "email",
+  "location",
+  "nature"
+ ],
+ "fields": [
+  {
+   "fieldname": "opposing_clients_section",
+   "fieldtype": "Section Break",
+   "label": "Opposing Clients"
+  },
+  {
+   "fieldname": "name1",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Name",
+   "unique": 1
+  },
+  {
+   "fieldname": "mobile_number",
+   "fieldtype": "Phone",
+   "in_list_view": 1,
+   "label": "Mobile Number"
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Email"
+  },
+  {
+   "fieldname": "address",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Address"
+  },
+  {
+   "fieldname": "location",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Location"
+  },
+  {
+   "fieldname": "nature",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nature"
+  },
+  {
+   "fieldname": "column_break_bfcr",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-12-23 12:53:56.178452",
+ "modified_by": "Administrator",
+ "module": "Masters",
+ "name": "Opposing Clients",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

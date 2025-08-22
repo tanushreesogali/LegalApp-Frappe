@@ -1,0 +1,96 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-12-23 19:24:21.024450",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "case_number",
+  "hearing_details",
+  "message",
+  "column_break_bdit",
+  "to_email",
+  "from_email",
+  "cc_email",
+  "status",
+  "screen",
+  "created_by"
+ ],
+ "fields": [
+  {
+   "fieldname": "case_number",
+   "fieldtype": "Link",
+   "label": "Case Number",
+   "options": "Case Master"
+  },
+  {
+   "fieldname": "hearing_details",
+   "fieldtype": "Link",
+   "label": "Hearing Details",
+   "options": "Hearing Details"
+  },
+  {
+   "fieldname": "message",
+   "fieldtype": "Long Text",
+   "label": "Message"
+  },
+  {
+   "fieldname": "column_break_bdit",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "to_email",
+   "fieldtype": "Small Text",
+   "label": "To Email"
+  },
+  {
+   "fieldname": "from_email",
+   "fieldtype": "Data",
+   "label": "From Email"
+  },
+  {
+   "fieldname": "cc_email",
+   "fieldtype": "Data",
+   "label": "CC Email"
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Data",
+   "label": "Status"
+  },
+  {
+   "fieldname": "screen",
+   "fieldtype": "Data",
+   "label": "Screen"
+  },
+  {
+   "fieldname": "created_by",
+   "fieldtype": "Data",
+   "label": "Created By"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-12-23 19:26:26.875892",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Email Log",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

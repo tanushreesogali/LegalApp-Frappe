@@ -1,0 +1,54 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-02-17 12:31:18.430569",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "patent_number",
+  "column_break_rnjn",
+  "date_of_grant"
+ ],
+ "fields": [
+  {
+   "fieldname": "patent_number",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Patent Number"
+  },
+  {
+   "fieldname": "column_break_rnjn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "date_of_grant",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Date of Grant"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-02-17 12:32:06.499929",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Multiple Patent Number",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

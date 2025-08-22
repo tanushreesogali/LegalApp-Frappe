@@ -1,0 +1,36 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2025-01-02 03:41:24.824532",
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 15,
+ "is_standard": "Yes",
+ "letterhead": null,
+ "modified": "2025-02-18 11:47:32.643451",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Hearing Details Report",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Hearing Details",
+ "report_name": "Hearing Details Report",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Administrator"
+  },
+  {
+   "role": "Admin"
+  },
+  {
+   "role": "Litigation"
+  }
+ ],
+ "timeout": 0
+}

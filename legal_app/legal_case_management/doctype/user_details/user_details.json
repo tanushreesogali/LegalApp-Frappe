@@ -1,0 +1,73 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:user_email",
+ "creation": "2025-02-21 14:04:49.777394",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "user_details_section",
+  "user_email",
+  "user_full_name",
+  "group_email",
+  "legal_team"
+ ],
+ "fields": [
+  {
+   "fieldname": "user_details_section",
+   "fieldtype": "Section Break",
+   "label": "User Details"
+  },
+  {
+   "fieldname": "group_email",
+   "fieldtype": "Data",
+   "label": "Group Email"
+  },
+  {
+   "fieldname": "user_email",
+   "fieldtype": "Link",
+   "label": "User Email",
+   "options": "User",
+   "unique": 1
+  },
+  {
+   "fieldname": "legal_team",
+   "fieldtype": "Select",
+   "label": "Legal Team",
+   "options": "-Select-\nIP\nLegal\nDistribution"
+  },
+  {
+   "fetch_from": "user_email.full_name",
+   "fieldname": "user_full_name",
+   "fieldtype": "Data",
+   "label": "User Full Name",
+   "options": "User",
+   "unique": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-02-25 14:23:55.610990",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "User Details",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

@@ -1,0 +1,10 @@
+Dear Team,
+
+This is an automated reminder regarding the upcoming hearing for your case {{doc.case_number}}. Please take note of the following details:
+
+Hearing Date: {{doc.hearing_date}}
+Location: {{doc.court_name}} - {{doc.city_name}}
+Opposing Party: {{doc.opposing_party}}
+Case Reference: {{doc.case_number}}
+
+Thank you for your attention to this matter.

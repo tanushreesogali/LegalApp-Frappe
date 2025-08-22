@@ -1,0 +1,24 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Hearing Date",
+  "enabled": 1,
+  "modified": "2025-01-08 16:24:39.232617",
+  "module": "Legal Case Management",
+  "name": "Hearing Date",
+  "script": "frappe.views.calendar[\"Hearing Date\"] = {\r\n    field_map: {\r\n        start: \"hearing_date\",\r\n        end: \"hearing_date\",\r\n        title: \"hearing_details_link\",\r\n    },\r\n    get_events_method: \"legal_app.api.get_hearing_dates\",\r\n    events_view: \"month\",\r\n};",
+  "view": "Form"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Hearing Details",
+  "enabled": 1,
+  "modified": "2025-01-08 16:25:09.592298",
+  "module": "Legal Case Management",
+  "name": "Hearing Details",
+  "script": "frappe.ui.form.on('Hearing Details', {\r\n    refresh: function(frm) {\r\n        frm.add_custom_button(__('Open Calendar'), function() {\r\n            window.open('/app/hearing-date/view/calendar/Upcoming%20Hearing%20Date', '_blank');\r\n        });\r\n    }\r\n});\r\n",
+  "view": "Form"
+ }
+]

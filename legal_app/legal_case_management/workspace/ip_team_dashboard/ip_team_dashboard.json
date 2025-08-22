@@ -1,0 +1,102 @@
+{
+ "charts": [
+  {
+   "chart_name": "No UPC Cases",
+   "label": "UPC Cases"
+  },
+  {
+   "chart_name": "No. of National Court Cases",
+   "label": "No. of National Court Cases"
+  },
+  {
+   "chart_name": "No. Of EPO Opposition Case",
+   "label": "No. of EPO Opposition Cases"
+  }
+ ],
+ "content": "[{\"id\":\"h51mlmDLL6\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Your Dashboard</span>\",\"col\":12}},{\"id\":\"IZZMkmZZGj\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"No. Of EPO Opposition Cases\",\"col\":4}},{\"id\":\"1wSQbvRoUk\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"No. of National Court Cases\",\"col\":4}},{\"id\":\"7dBAxLAzhw\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"No. of UPC Cases\",\"col\":4}},{\"id\":\"ZKf8T0veur\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"New Patent Case\",\"col\":4}},{\"id\":\"1Cpxhch-GO\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"New Opposition Case\",\"col\":4}},{\"id\":\"h0XjE-2Ijh\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"UPC Table Preview\",\"col\":12}},{\"id\":\"Cl7jgdH6Hh\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"National Court Table Preview\",\"col\":12}},{\"id\":\"aKkYw0V9b_\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"EPO Opposition Table review\",\"col\":12}},{\"id\":\"gYtA4LlQ84\",\"type\":\"chart\",\"data\":{\"chart_name\":\"No. of National Court Cases\",\"col\":6}},{\"id\":\"5OhBfCDojq\",\"type\":\"chart\",\"data\":{\"chart_name\":\"UPC Cases\",\"col\":6}},{\"id\":\"GvMHIqDtGq\",\"type\":\"chart\",\"data\":{\"chart_name\":\"No. of EPO Opposition Cases\",\"col\":12}},{\"id\":\"sfnp7EAUnc\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Litigation Cases by Year\",\"col\":12}}]",
+ "creation": "2024-11-06 10:45:45.051977",
+ "custom_blocks": [
+  {
+   "custom_block_name": "National Court Table Preview",
+   "label": "National Court Table Preview"
+  },
+  {
+   "custom_block_name": "Litigation Cases by Year",
+   "label": "Litigation Cases by Year"
+  },
+  {
+   "custom_block_name": "UPC Table Preview",
+   "label": "UPC Table Preview"
+  },
+  {
+   "custom_block_name": "EPO Opposition Table review",
+   "label": "EPO Opposition Table review"
+  }
+ ],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "solid-success",
+ "idx": 1,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "IP Team Dashboard",
+ "links": [],
+ "modified": "2025-05-28 11:16:16.640831",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "IP Team Dashboard",
+ "number_cards": [
+  {
+   "label": "No. Of EPO Opposition Cases",
+   "number_card_name": "Total No of Opposition Case"
+  },
+  {
+   "label": "No. of National Court Cases",
+   "number_card_name": "Total No. of EPO Cases"
+  },
+  {
+   "label": "No. of UPC Cases",
+   "number_card_name": "Total No. of UPC Cases"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "IP"
+  },
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Administrator"
+  },
+  {
+   "role": "Admin"
+  }
+ ],
+ "sequence_id": 4.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "New Opposition Case",
+   "link_to": "EPO Opposition Master",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "New Patent Case",
+   "link_to": "Patent Master",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "IP Team Dashboard"
+}

@@ -1,0 +1,119 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:full_name",
+ "creation": "2024-09-30 11:34:34.963981",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "personal_details_section",
+  "full_name",
+  "mobile",
+  "lawyer_address",
+  "column_break_xggs",
+  "lawyer_email",
+  "official_details_section",
+  "fees",
+  "currency_type",
+  "column_break_ggpn",
+  "payment_brief_arrangements",
+  "section_break_arao",
+  "payment_details"
+ ],
+ "fields": [
+  {
+   "fieldname": "full_name",
+   "fieldtype": "Data",
+   "label": "Full Name",
+   "unique": 1
+  },
+  {
+   "fieldname": "personal_details_section",
+   "fieldtype": "Section Break",
+   "label": "Personal Details"
+  },
+  {
+   "fieldname": "lawyer_email",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "mobile",
+   "fieldtype": "Phone",
+   "label": "Mobile"
+  },
+  {
+   "fieldname": "lawyer_address",
+   "fieldtype": "Small Text",
+   "label": "Address"
+  },
+  {
+   "fieldname": "official_details_section",
+   "fieldtype": "Section Break",
+   "label": "Official Details"
+  },
+  {
+   "fieldname": "column_break_ggpn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "payment_brief_arrangements",
+   "fieldtype": "Data",
+   "label": "Payment Brief/ Arrangements"
+  },
+  {
+   "fieldname": "section_break_arao",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_xggs",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "fees",
+   "fieldtype": "Currency",
+   "label": "Fees",
+   "options": "Arbitration Petition\nConsumer Lawyer\nLaw Firm"
+  },
+  {
+   "fieldname": "payment_details",
+   "fieldtype": "Table",
+   "label": "Payment Details",
+   "options": "Payment Master"
+  },
+  {
+   "fieldname": "currency_type",
+   "fieldtype": "Link",
+   "label": "Currency Type",
+   "options": "Currency Master"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-12-23 12:44:17.639516",
+ "modified_by": "Administrator",
+ "module": "Masters",
+ "name": "Lawyer Master",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}

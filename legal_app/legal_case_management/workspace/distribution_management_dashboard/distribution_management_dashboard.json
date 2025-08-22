@@ -1,0 +1,100 @@
+{
+ "charts": [
+  {
+   "chart_name": "Case Stages Distributor",
+   "label": "Case Stage"
+  },
+  {
+   "chart_name": "Distribution Management Total No. of Cases",
+   "label": "Total No. of Cases"
+  },
+  {
+   "chart_name": "Distribution Management Meril Roles",
+   "label": "Meril Roles"
+  },
+  {
+   "chart_name": "Distribution Management No. of Closed Cases",
+   "label": "No. of Closed Cases"
+  },
+  {
+   "chart_name": "Distribution Management No. of Open Cases",
+   "label": "No. of Open Cases"
+  },
+  {
+   "chart_name": "Distribution Management Case Type Distribution",
+   "label": "Case Type Distribution"
+  }
+ ],
+ "content": "[{\"id\":\"D2Xdd9dGou\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Dashboard</span>\",\"col\":12}},{\"id\":\"ij1fvQetTq\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Distribution Management System Total No. of Cases\",\"col\":3}},{\"id\":\"Qkm23XP_Nv\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"No. of Notice\",\"col\":3}},{\"id\":\"CZnZp6433U\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"No. of Open Cases\",\"col\":3}},{\"id\":\"dGdtpudTxg\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"No. of Closed Cases\",\"col\":3}},{\"id\":\"9dtjele8Uu\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"New Notice\",\"col\":4}},{\"id\":\"5tgYr0Uf14\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"New Case\",\"col\":4}},{\"id\":\"db4LhQO0FQ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"New Hearing\",\"col\":4}},{\"id\":\"datGGZyj9J\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Total No. of Cases\",\"col\":12}},{\"id\":\"Ng3csww2Wz\",\"type\":\"chart\",\"data\":{\"chart_name\":\"No. of Open Cases\",\"col\":6}},{\"id\":\"FP2MnQkW7u\",\"type\":\"chart\",\"data\":{\"chart_name\":\"No. of Closed Cases\",\"col\":6}},{\"id\":\"2jessbOhQB\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Meril Roles\",\"col\":6}},{\"id\":\"-IO6-2HUSS\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Case Type Distribution\",\"col\":6}},{\"id\":\"mez95pbw6Z\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Case Stage\",\"col\":12}}]",
+ "creation": "2024-11-06 10:46:48.506881",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "color-monthly-rank",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "Distribution Management Dashboard",
+ "links": [],
+ "modified": "2025-05-26 14:20:08.497095",
+ "modified_by": "Administrator",
+ "module": "Legal Case Management",
+ "name": "Distribution Management Dashboard",
+ "number_cards": [
+  {
+   "label": "Distribution Management System Total No. of Cases",
+   "number_card_name": "Distribution Management System Total No. of Cases"
+  },
+  {
+   "label": "No. of Notice",
+   "number_card_name": "DM Notice"
+  },
+  {
+   "label": "No. of Open Cases",
+   "number_card_name": "DM Open Cases"
+  },
+  {
+   "label": "No. of Closed Cases",
+   "number_card_name": "DM Closed Cases"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Administrator"
+  }
+ ],
+ "sequence_id": 3.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "New Notice",
+   "link_to": "Old Notice Master",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "New Case",
+   "link_to": "Case Master",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "New Hearing",
+   "link_to": "Hearing Details",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Distribution Management Dashboard"
+}

@@ -1,0 +1,1562 @@
+[
+ {
+  "currency": "ADP",
+  "currency_name": "Andoran peseta",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.283271",
+  "name": "ADP"
+ },
+ {
+  "currency": "AED",
+  "currency_name": "United Arab Emirates Dirham",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.315072",
+  "name": "AED"
+ },
+ {
+  "currency": "AFA",
+  "currency_name": "Afghani (Old)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.329851",
+  "name": "AFA"
+ },
+ {
+  "currency": "AFN",
+  "currency_name": "Afghani",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.344273",
+  "name": "AFN"
+ },
+ {
+  "currency": "ALL",
+  "currency_name": "Albanian Lek",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.358160",
+  "name": "ALL"
+ },
+ {
+  "currency": "AMD",
+  "currency_name": "Armenian Dram",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.372546",
+  "name": "AMD"
+ },
+ {
+  "currency": "ANG",
+  "currency_name": "West Indian Guilder",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.386924",
+  "name": "ANG"
+ },
+ {
+  "currency": "AOA",
+  "currency_name": "Angolanische Kwanza",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.401410",
+  "name": "AOA"
+ },
+ {
+  "currency": "AON",
+  "currency_name": "Angolan New Kwanza (Old)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.415770",
+  "name": "AON"
+ },
+ {
+  "currency": "AOR",
+  "currency_name": "Angolan Kwanza Reajustado (Old)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.430756",
+  "name": "AOR"
+ },
+ {
+  "currency": "ARS",
+  "currency_name": "Argentine Peso",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.445741",
+  "name": "ARS"
+ },
+ {
+  "currency": "ATS",
+  "currency_name": "Austrian Schilling",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.460113",
+  "name": "ATS"
+ },
+ {
+  "currency": "AUD",
+  "currency_name": "Australian Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.473999",
+  "name": "AUD"
+ },
+ {
+  "currency": "AWG",
+  "currency_name": "Aruban Guilder",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.488331",
+  "name": "AWG"
+ },
+ {
+  "currency": "AZM",
+  "currency_name": "Azerbaijan Manat",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.502386",
+  "name": "AZM"
+ },
+ {
+  "currency": "BAM",
+  "currency_name": "Bosnia and Herzegovina Convertible Mark",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.516220",
+  "name": "BAM"
+ },
+ {
+  "currency": "BBD",
+  "currency_name": "Barbados Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.530993",
+  "name": "BBD"
+ },
+ {
+  "currency": "BDT",
+  "currency_name": "Bangladesh Taka",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.545173",
+  "name": "BDT"
+ },
+ {
+  "currency": "BEF",
+  "currency_name": "Belgian Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.560270",
+  "name": "BEF"
+ },
+ {
+  "currency": "BGN",
+  "currency_name": "Bulgarian Lev",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.574681",
+  "name": "BGN"
+ },
+ {
+  "currency": "BHD",
+  "currency_name": "Bahrain Dinar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.590280",
+  "name": "BHD"
+ },
+ {
+  "currency": "BIF",
+  "currency_name": "Burundi Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.604694",
+  "name": "BIF"
+ },
+ {
+  "currency": "BMD",
+  "currency_name": "Bermudan Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.620040",
+  "name": "BMD"
+ },
+ {
+  "currency": "BND",
+  "currency_name": "Brunei Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.634170",
+  "name": "BND"
+ },
+ {
+  "currency": "BOB",
+  "currency_name": "Boliviano",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.647877",
+  "name": "BOB"
+ },
+ {
+  "currency": "BRL",
+  "currency_name": "Brazilian Real",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.662496",
+  "name": "BRL"
+ },
+ {
+  "currency": "BSD",
+  "currency_name": "Bahaman Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.676199",
+  "name": "BSD"
+ },
+ {
+  "currency": "BTN",
+  "currency_name": "Bhutan Ngultrum",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.690569",
+  "name": "BTN"
+ },
+ {
+  "currency": "BWP",
+  "currency_name": "Botswana Pula",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.704055",
+  "name": "BWP"
+ },
+ {
+  "currency": "BYB",
+  "currency_name": "Belorussian Ruble (Old)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.718079",
+  "name": "BYB"
+ },
+ {
+  "currency": "BYR",
+  "currency_name": "Belorussian Ruble",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.731838",
+  "name": "BYR"
+ },
+ {
+  "currency": "BZD",
+  "currency_name": "Belize Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.745224",
+  "name": "BZD"
+ },
+ {
+  "currency": "CAD",
+  "currency_name": "Canadian Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.758474",
+  "name": "CAD"
+ },
+ {
+  "currency": "CDF",
+  "currency_name": "Congolese Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.771825",
+  "name": "CDF"
+ },
+ {
+  "currency": "CFP",
+  "currency_name": "French Franc (Pacific Islands)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.785610",
+  "name": "CFP"
+ },
+ {
+  "currency": "CHF",
+  "currency_name": "Swiss Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.799032",
+  "name": "CHF"
+ },
+ {
+  "currency": "CLP",
+  "currency_name": "Chilean Peso",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.812400",
+  "name": "CLP"
+ },
+ {
+  "currency": "CNY",
+  "currency_name": "Chinesische Yuan (international)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.830949",
+  "name": "CNY"
+ },
+ {
+  "currency": "COP",
+  "currency_name": "Colombian Peso",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.846638",
+  "name": "COP"
+ },
+ {
+  "currency": "CRC",
+  "currency_name": "Costa Rica Colon",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.863699",
+  "name": "CRC"
+ },
+ {
+  "currency": "CSD",
+  "currency_name": "Serbian Dinar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.878958",
+  "name": "CSD"
+ },
+ {
+  "currency": "CUP",
+  "currency_name": "Cuban Peso",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.894162",
+  "name": "CUP"
+ },
+ {
+  "currency": "CVE",
+  "currency_name": "Cape Verde Escudo",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.908605",
+  "name": "CVE"
+ },
+ {
+  "currency": "CYP",
+  "currency_name": "Cyprus Pound",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.924158",
+  "name": "CYP"
+ },
+ {
+  "currency": "CZK",
+  "currency_name": "Czech Krona",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.940345",
+  "name": "CZK"
+ },
+ {
+  "currency": "DEM",
+  "currency_name": "German Mark",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.955325",
+  "name": "DEM"
+ },
+ {
+  "currency": "DEM3",
+  "currency_name": "(Internal) German Mark (3 dec.places)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.970217",
+  "name": "DEM3"
+ },
+ {
+  "currency": "DJF",
+  "currency_name": "Djibouti Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.984341",
+  "name": "DJF"
+ },
+ {
+  "currency": "DKK",
+  "currency_name": "Danish Krone",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:52.998012",
+  "name": "DKK"
+ },
+ {
+  "currency": "DOP",
+  "currency_name": "Dominican Peso",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.011866",
+  "name": "DOP"
+ },
+ {
+  "currency": "DZD",
+  "currency_name": "Algerian Dinar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.026430",
+  "name": "DZD"
+ },
+ {
+  "currency": "ECS",
+  "currency_name": "Ecuadorian Sucre (  > USD)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.039881",
+  "name": "ECS"
+ },
+ {
+  "currency": "EEK",
+  "currency_name": "Estonian Krone",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.053701",
+  "name": "EEK"
+ },
+ {
+  "currency": "EGP",
+  "currency_name": "Egyptian Pound",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.067354",
+  "name": "EGP"
+ },
+ {
+  "currency": "ERN",
+  "currency_name": "Eritrean Nafka",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.080732",
+  "name": "ERN"
+ },
+ {
+  "currency": "ESP",
+  "currency_name": "Spanish Peseta",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.094278",
+  "name": "ESP"
+ },
+ {
+  "currency": "ETB",
+  "currency_name": "Ethiopian Birr",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.110472",
+  "name": "ETB"
+ },
+ {
+  "currency": "EUR",
+  "currency_name": "European Euro",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.124777",
+  "name": "EUR"
+ },
+ {
+  "currency": "FIM",
+  "currency_name": "Finnish markka",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.139791",
+  "name": "FIM"
+ },
+ {
+  "currency": "FJD",
+  "currency_name": "Fiji Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.153636",
+  "name": "FJD"
+ },
+ {
+  "currency": "FKP",
+  "currency_name": "Falkland Pound",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.167540",
+  "name": "FKP"
+ },
+ {
+  "currency": "FRF",
+  "currency_name": "French Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.194396",
+  "name": "FRF"
+ },
+ {
+  "currency": "GBP",
+  "currency_name": "British Pound",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.208419",
+  "name": "GBP"
+ },
+ {
+  "currency": "GEL",
+  "currency_name": "Georgian Lari",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.222136",
+  "name": "GEL"
+ },
+ {
+  "currency": "GHC",
+  "currency_name": "Ghanian Cedi",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.236044",
+  "name": "GHC"
+ },
+ {
+  "currency": "GIP",
+  "currency_name": "Gibraltar Pound",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.249949",
+  "name": "GIP"
+ },
+ {
+  "currency": "GMD",
+  "currency_name": "Gambian Dalasi",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.263645",
+  "name": "GMD"
+ },
+ {
+  "currency": "GNF",
+  "currency_name": "Guinean Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.277302",
+  "name": "GNF"
+ },
+ {
+  "currency": "GRD",
+  "currency_name": "Greek Drachma",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.291325",
+  "name": "GRD"
+ },
+ {
+  "currency": "GTQ",
+  "currency_name": "Guatemalan Quetzal",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.305153",
+  "name": "GTQ"
+ },
+ {
+  "currency": "GWP",
+  "currency_name": "Guinea Peso",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.318826",
+  "name": "GWP"
+ },
+ {
+  "currency": "GYD",
+  "currency_name": "Guyana Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.333476",
+  "name": "GYD"
+ },
+ {
+  "currency": "HKD",
+  "currency_name": "Hong Kong Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.347580",
+  "name": "HKD"
+ },
+ {
+  "currency": "HNL",
+  "currency_name": "Honduran Lempira",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.361749",
+  "name": "HNL"
+ },
+ {
+  "currency": "HRK",
+  "currency_name": "Croatian Kuna",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.376845",
+  "name": "HRK"
+ },
+ {
+  "currency": "HTG",
+  "currency_name": "Haitian Gourde",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.390852",
+  "name": "HTG"
+ },
+ {
+  "currency": "HUF",
+  "currency_name": "Hungarian Forint",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.404533",
+  "name": "HUF"
+ },
+ {
+  "currency": "IDR",
+  "currency_name": "Indonesian Rupiah",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.418377",
+  "name": "IDR"
+ },
+ {
+  "currency": "IEP",
+  "currency_name": "Irish Punt",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.431950",
+  "name": "IEP"
+ },
+ {
+  "currency": "ILS",
+  "currency_name": "Israeli Scheckel",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.446243",
+  "name": "ILS"
+ },
+ {
+  "currency": "IQD",
+  "currency_name": "Iraqui Dinar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.459761",
+  "name": "IQD"
+ },
+ {
+  "currency": "IRR",
+  "currency_name": "Iranian Rial",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.473221",
+  "name": "IRR"
+ },
+ {
+  "currency": "ISK",
+  "currency_name": "Iceland Krona",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.486775",
+  "name": "ISK"
+ },
+ {
+  "currency": "ITL",
+  "currency_name": "Italian Lira",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.500638",
+  "name": "ITL"
+ },
+ {
+  "currency": "JMD",
+  "currency_name": "Jamaican Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.514254",
+  "name": "JMD"
+ },
+ {
+  "currency": "JOD",
+  "currency_name": "Jordanian Dinar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.529461",
+  "name": "JOD"
+ },
+ {
+  "currency": "JPY",
+  "currency_name": "Japanese Yen",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.543515",
+  "name": "JPY"
+ },
+ {
+  "currency": "KES",
+  "currency_name": "Kenyan Shilling",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.557019",
+  "name": "KES"
+ },
+ {
+  "currency": "KGS",
+  "currency_name": "Kyrgyzstan Som",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.570604",
+  "name": "KGS"
+ },
+ {
+  "currency": "KHR",
+  "currency_name": "Cambodian Riel",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.583937",
+  "name": "KHR"
+ },
+ {
+  "currency": "KMF",
+  "currency_name": "Comoros Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.597443",
+  "name": "KMF"
+ },
+ {
+  "currency": "KPW",
+  "currency_name": "North Korean Won",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.610977",
+  "name": "KPW"
+ },
+ {
+  "currency": "KRW",
+  "currency_name": "South Korean Won",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.624424",
+  "name": "KRW"
+ },
+ {
+  "currency": "KWD",
+  "currency_name": "Kuwaiti Dinar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.638313",
+  "name": "KWD"
+ },
+ {
+  "currency": "KYD",
+  "currency_name": "Cayman Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.652030",
+  "name": "KYD"
+ },
+ {
+  "currency": "KZT",
+  "currency_name": "Kazakstanian Tenge",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.665671",
+  "name": "KZT"
+ },
+ {
+  "currency": "LAK",
+  "currency_name": "Laotian Kip",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.679108",
+  "name": "LAK"
+ },
+ {
+  "currency": "LBP",
+  "currency_name": "Lebanese Pound",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.693159",
+  "name": "LBP"
+ },
+ {
+  "currency": "LKR",
+  "currency_name": "Sri Lankan Rupee",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.706869",
+  "name": "LKR"
+ },
+ {
+  "currency": "LRD",
+  "currency_name": "Liberian Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.721012",
+  "name": "LRD"
+ },
+ {
+  "currency": "LSL",
+  "currency_name": "Lesotho Loti",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.734942",
+  "name": "LSL"
+ },
+ {
+  "currency": "LTL",
+  "currency_name": "Lithuanian Lita",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.749608",
+  "name": "LTL"
+ },
+ {
+  "currency": "LUF",
+  "currency_name": "Luxembourg Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.763009",
+  "name": "LUF"
+ },
+ {
+  "currency": "LVL",
+  "currency_name": "Latvian Lat",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.776647",
+  "name": "LVL"
+ },
+ {
+  "currency": "LYD",
+  "currency_name": "Libyan Dinar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.790507",
+  "name": "LYD"
+ },
+ {
+  "currency": "MAD",
+  "currency_name": "Moroccan Dirham",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.805047",
+  "name": "MAD"
+ },
+ {
+  "currency": "MDL",
+  "currency_name": "Moldavian Leu",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.822389",
+  "name": "MDL"
+ },
+ {
+  "currency": "MGA",
+  "currency_name": "Madagascan Ariary (New)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.837110",
+  "name": "MGA"
+ },
+ {
+  "currency": "MGF",
+  "currency_name": "Madagascan Franc (Old",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.851105",
+  "name": "MGF"
+ },
+ {
+  "currency": "MKD",
+  "currency_name": "Macedonian Denar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.864677",
+  "name": "MKD"
+ },
+ {
+  "currency": "MMK",
+  "currency_name": "Myanmar Kyat",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.878070",
+  "name": "MMK"
+ },
+ {
+  "currency": "MNT",
+  "currency_name": "Mongolian Tugrik",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.891906",
+  "name": "MNT"
+ },
+ {
+  "currency": "MOP",
+  "currency_name": "Macao Pataca",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.905645",
+  "name": "MOP"
+ },
+ {
+  "currency": "MRO",
+  "currency_name": "Mauritanian Ouguiya",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.921494",
+  "name": "MRO"
+ },
+ {
+  "currency": "MTL",
+  "currency_name": "Maltese Lira",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.935098",
+  "name": "MTL"
+ },
+ {
+  "currency": "MUR",
+  "currency_name": "Mauritian Rupee",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.949418",
+  "name": "MUR"
+ },
+ {
+  "currency": "MVR",
+  "currency_name": "Maldive Rufiyaa",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.965867",
+  "name": "MVR"
+ },
+ {
+  "currency": "MWK",
+  "currency_name": "Malawi Kwacha",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.981671",
+  "name": "MWK"
+ },
+ {
+  "currency": "MXN",
+  "currency_name": "Mexican Pesos",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:53.996869",
+  "name": "MXN"
+ },
+ {
+  "currency": "MYR",
+  "currency_name": "Malaysian Ringgit",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.013551",
+  "name": "MYR"
+ },
+ {
+  "currency": "MZM",
+  "currency_name": "Mozambique Metical",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.028652",
+  "name": "MZM"
+ },
+ {
+  "currency": "NAD",
+  "currency_name": "Namibian Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.044946",
+  "name": "NAD"
+ },
+ {
+  "currency": "NGN",
+  "currency_name": "Nigerian Naira",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.060828",
+  "name": "NGN"
+ },
+ {
+  "currency": "NIO",
+  "currency_name": "Nicaraguan Cordoba Oro",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.076568",
+  "name": "NIO"
+ },
+ {
+  "currency": "NLG",
+  "currency_name": "Dutch Guilder",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.099128",
+  "name": "NLG"
+ },
+ {
+  "currency": "NOK",
+  "currency_name": "Norwegian Krone",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.114294",
+  "name": "NOK"
+ },
+ {
+  "currency": "NPR",
+  "currency_name": "Nepalese Rupee",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.128244",
+  "name": "NPR"
+ },
+ {
+  "currency": "NZD",
+  "currency_name": "New Zealand Dollars",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.142400",
+  "name": "NZD"
+ },
+ {
+  "currency": "OMR",
+  "currency_name": "Omani Rial",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.156502",
+  "name": "OMR"
+ },
+ {
+  "currency": "PAB",
+  "currency_name": "Panamanian Balboa",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.170670",
+  "name": "PAB"
+ },
+ {
+  "currency": "PEN",
+  "currency_name": "Peruvian New Sol",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.199053",
+  "name": "PEN"
+ },
+ {
+  "currency": "PGK",
+  "currency_name": "Papua New Guinea Kina",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.215131",
+  "name": "PGK"
+ },
+ {
+  "currency": "PHP",
+  "currency_name": "Philippine Peso",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.229418",
+  "name": "PHP"
+ },
+ {
+  "currency": "PKR",
+  "currency_name": "Pakistani Rupee",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.252958",
+  "name": "PKR"
+ },
+ {
+  "currency": "PLN",
+  "currency_name": "Polish Zloty (new)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.267231",
+  "name": "PLN"
+ },
+ {
+  "currency": "PTE",
+  "currency_name": "Portuguese Escudo",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.280803",
+  "name": "PTE"
+ },
+ {
+  "currency": "PYG",
+  "currency_name": "Paraguayan Guarani",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.295651",
+  "name": "PYG"
+ },
+ {
+  "currency": "QAR",
+  "currency_name": "Qatar Rial",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.310221",
+  "name": "QAR"
+ },
+ {
+  "currency": "RMB",
+  "currency_name": "Chinesische Renminbi (national)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.324287",
+  "name": "RMB"
+ },
+ {
+  "currency": "ROL",
+  "currency_name": "Romanian Leu",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.338214",
+  "name": "ROL"
+ },
+ {
+  "currency": "RUB",
+  "currency_name": "Russian Ruble",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.353557",
+  "name": "RUB"
+ },
+ {
+  "currency": "RWF",
+  "currency_name": "Rwandan Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.367280",
+  "name": "RWF"
+ },
+ {
+  "currency": "SAR",
+  "currency_name": "Saudi Riyal",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.381044",
+  "name": "SAR"
+ },
+ {
+  "currency": "SBD",
+  "currency_name": "Solomon Islands Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.395194",
+  "name": "SBD"
+ },
+ {
+  "currency": "SCR",
+  "currency_name": "Seychelles Rupee",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.409472",
+  "name": "SCR"
+ },
+ {
+  "currency": "SDD",
+  "currency_name": "Sudanese Dinar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.423410",
+  "name": "SDD"
+ },
+ {
+  "currency": "SDP",
+  "currency_name": "Sudanese Pound",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.437295",
+  "name": "SDP"
+ },
+ {
+  "currency": "SEK",
+  "currency_name": "Swedish Krona",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.451287",
+  "name": "SEK"
+ },
+ {
+  "currency": "SGD",
+  "currency_name": "Singapore Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.464996",
+  "name": "SGD"
+ },
+ {
+  "currency": "SHP",
+  "currency_name": "St.Helena Pound",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.479846",
+  "name": "SHP"
+ },
+ {
+  "currency": "SIT",
+  "currency_name": "Slovenian Tolar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.493799",
+  "name": "SIT"
+ },
+ {
+  "currency": "SKK",
+  "currency_name": "Slovakian Krona",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.507513",
+  "name": "SKK"
+ },
+ {
+  "currency": "SLL",
+  "currency_name": "Sierra Leone Leone",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.522714",
+  "name": "SLL"
+ },
+ {
+  "currency": "SOS",
+  "currency_name": "Somalian Shilling",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.544196",
+  "name": "SOS"
+ },
+ {
+  "currency": "SRD",
+  "currency_name": "Surinam Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.561287",
+  "name": "SRD"
+ },
+ {
+  "currency": "SRG",
+  "currency_name": "Surinam Guilder (Old)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.575127",
+  "name": "SRG"
+ },
+ {
+  "currency": "STD",
+  "currency_name": "Sao Tome / Principe Dobra",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.588613",
+  "name": "STD"
+ },
+ {
+  "currency": "SVC",
+  "currency_name": "El Salvador Colon",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.602018",
+  "name": "SVC"
+ },
+ {
+  "currency": "SYP",
+  "currency_name": "Syrian Pound",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.615701",
+  "name": "SYP"
+ },
+ {
+  "currency": "SZL",
+  "currency_name": "Swaziland Lilangeni",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.630095",
+  "name": "SZL"
+ },
+ {
+  "currency": "THB",
+  "currency_name": "Thailand Baht",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.644399",
+  "name": "THB"
+ },
+ {
+  "currency": "TJR",
+  "currency_name": "Tajikistani Ruble (Old)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.658153",
+  "name": "TJR"
+ },
+ {
+  "currency": "TJS",
+  "currency_name": "Tajikistani Somoni",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.671958",
+  "name": "TJS"
+ },
+ {
+  "currency": "TMM",
+  "currency_name": "Turkmenistani Manat",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.685528",
+  "name": "TMM"
+ },
+ {
+  "currency": "TND",
+  "currency_name": "Tunisian Dinar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.699211",
+  "name": "TND"
+ },
+ {
+  "currency": "TOP",
+  "currency_name": "Tongan Pa'anga",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.713071",
+  "name": "TOP"
+ },
+ {
+  "currency": "TPE",
+  "currency_name": "Timor Escudo",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.726721",
+  "name": "TPE"
+ },
+ {
+  "currency": "TRL",
+  "currency_name": "Turkish Lira (Old)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.743037",
+  "name": "TRL"
+ },
+ {
+  "currency": "TRY",
+  "currency_name": "Turkish Lira",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.756775",
+  "name": "TRY"
+ },
+ {
+  "currency": "TTD",
+  "currency_name": "Trinidad and Tobago Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.771559",
+  "name": "TTD"
+ },
+ {
+  "currency": "TWD",
+  "currency_name": "New Taiwan Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.795148",
+  "name": "TWD"
+ },
+ {
+  "currency": "TZS",
+  "currency_name": "Tanzanian Shilling",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.810782",
+  "name": "TZS"
+ },
+ {
+  "currency": "UAH",
+  "currency_name": "Ukraine Hryvnia",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.824879",
+  "name": "UAH"
+ },
+ {
+  "currency": "UGX",
+  "currency_name": "Ugandan Shilling",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.839155",
+  "name": "UGX"
+ },
+ {
+  "currency": "USD",
+  "currency_name": "United States Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.852886",
+  "name": "USD"
+ },
+ {
+  "currency": "USDN",
+  "currency_name": "(Internal) United States Dollar (5 Dec.)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.866651",
+  "name": "USDN"
+ },
+ {
+  "currency": "UYU",
+  "currency_name": "Uruguayan Peso (new)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.881711",
+  "name": "UYU"
+ },
+ {
+  "currency": "UZS",
+  "currency_name": "Uzbekistan Som",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.895125",
+  "name": "UZS"
+ },
+ {
+  "currency": "VEB",
+  "currency_name": "Venezuelan Bolivar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.908507",
+  "name": "VEB"
+ },
+ {
+  "currency": "VND",
+  "currency_name": "Vietnamese Dong",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.922704",
+  "name": "VND"
+ },
+ {
+  "currency": "VUV",
+  "currency_name": "Vanuatu Vatu",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.936160",
+  "name": "VUV"
+ },
+ {
+  "currency": "WST",
+  "currency_name": "Samoan Tala",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.949801",
+  "name": "WST"
+ },
+ {
+  "currency": "XAF",
+  "currency_name": "Gabon CFA Franc BEAC",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.963347",
+  "name": "XAF"
+ },
+ {
+  "currency": "XCD",
+  "currency_name": "East Carribean Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.976896",
+  "name": "XCD"
+ },
+ {
+  "currency": "XDS",
+  "currency_name": "St. Christopher Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:54.990460",
+  "name": "XDS"
+ },
+ {
+  "currency": "XEU",
+  "currency_name": "European Currency Unit (E.C.U.)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.003847",
+  "name": "XEU"
+ },
+ {
+  "currency": "XOF",
+  "currency_name": "Benin CFA Franc BCEAO",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.021175",
+  "name": "XOF"
+ },
+ {
+  "currency": "XPF",
+  "currency_name": "CFP Franc",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.038489",
+  "name": "XPF"
+ },
+ {
+  "currency": "YER",
+  "currency_name": "Yemeni Ryal",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.053935",
+  "name": "YER"
+ },
+ {
+  "currency": "YUM",
+  "currency_name": "New Yugoslavian Dinar (Old)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.069240",
+  "name": "YUM"
+ },
+ {
+  "currency": "ZAR",
+  "currency_name": "South African Rand",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.085042",
+  "name": "ZAR"
+ },
+ {
+  "currency": "ZMK",
+  "currency_name": "Zambian Kwacha",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.104420",
+  "name": "ZMK"
+ },
+ {
+  "currency": "ZRN",
+  "currency_name": "Zaire (Old)",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.121223",
+  "name": "ZRN"
+ },
+ {
+  "currency": "ZWD",
+  "currency_name": "Zimbabwean Dollar",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.142321",
+  "name": "ZWD"
+ },
+ {
+  "currency": "INR",
+  "currency_name": "Indian Rupee",
+  "docstatus": 0,
+  "doctype": "Currency Master",
+  "modified": "2025-01-09 10:16:55.158267",
+  "name": "INR"
+ }
+]
